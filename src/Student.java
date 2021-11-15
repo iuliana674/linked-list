@@ -1,5 +1,4 @@
 import java.time.LocalDate;
-import java.util.Comparator;
 import java.util.Objects;
 
 public class Student implements Comparable<Student>
